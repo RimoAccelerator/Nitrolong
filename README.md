@@ -1,4 +1,4 @@
-﻿# Properties of nitrolong: Geometric and Electronic Structures, Redox Behavior, and Aromaticity
+﻿# Properties of nitrolong: Geometric and Electronic Structures, Redox Behavior, and Aromaticity 乃龙（Nitrolong）的性质：几何和电子结构，氧化还原行为及芳香性
 
 Yumiao Ma
 
